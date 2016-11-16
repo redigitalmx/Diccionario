@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Diccionario</string>
+    <string name="texto_titulo">Bienvenido</string>
+    <string name="boton">Entrar</string>
+</resources>
